@@ -1,2 +1,1 @@
-# phpStudy
-### Here you can find abstracts of training materials from various Internet resources, courses and books.
+# :green_book: Materials from various Internet resources, courses and books.
